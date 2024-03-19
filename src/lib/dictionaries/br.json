@@ -1,0 +1,104 @@
+{
+  "header": {
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "experiences": "Experiências",
+    "contact": "Contato"
+  },
+  "about": [
+    "Olá, sou o <strong class='text-white'>Marcelo Henrique Boff.</strong>",
+    "Iniciei minha carreira como <strong class='text-white'>Desenvolvedor</strong> em 2018, como estagiário após me formar como Técnico em Eletrônica.",
+    "Hoje trabalho como <strong class='text-white'>Tech Lead na VetTech Soluções em Tecnologia</strong>, sendo responsável pelo gerenciamento dos projetos e desenvolvimento",
+    "Além de programação tenho experiencias práticas com informações fiscais e <strong class='text-white'>Gerenciais de Empresas</strong>, e de estudo tenho conhecimentos na area <strong class='text-white'>Financeira e investimentos.</strong>",
+    "No meu tempo de lazer gosto praticar <strong class='text-white'>Atividade Física</strong> como academia, assistir séries e filmes, e me manter atualizado sobre os acontecimentos mais recentes do <strong class='text-white'>Mundo da programação</strong>, além de estudar a área Financeira e investimentos."
+  ],
+  "skills": {
+    "database": "Banco de Dados",
+    "other": "Outros"
+  },
+  "experiences": {
+    "wss": {
+      "position": "Percurso em Segurança Ofensiva e Operações de Cibersegurança V",
+      "time": "Fev/2023 - Dez/2023",
+      "text": [
+        "Introdução a Segurança Ofensiva e Operações de Cibersegurança",
+        "Segurança em Sistemas Operacionais",
+        "Estruturas e Protocolos de Rede para Cibersegurança",
+        "Ataques e Ameaças à Rede",
+        "Criptografia e Técnicas de Defesa e Proteção",
+        "Segurança Ofensiva I: Introdução e Aspectos Primordiais",
+        "Segurança Ofensiva II: Reconhecimentos",
+        "Monitoramento de Segurança",
+        "Segurança Ofensiva III: Explorações e Estratégia External",
+        "Análise, Tratamento e Resposta a Incidentes",
+        "Segurança Ofensiva IV: Estratégia Web e Pós-Exploração",
+        "Segurança Ofensiva V: Estratégia Interna",
+        "Supervisão em Práticas de Segurança Ofensiva e Cibersegurança"
+      ]
+    },
+    "vettech": {
+      "position": "Tech Lead",
+      "time": "Set/2020 - Atual (VetTech)",
+      "text": [
+        "Exercido função de <strong class='text-white'>Tech Lead</strong> e <strong class='text-white'>Desenvolvedor</strong>",
+        "Desenvolvimento de melhorias e correções de problema no <strong class='text-white'>Software de gestão</strong> para farmácias da empresa",
+        "Desenvolvimento de sistema para <strong class='text-white'>Gerenciamento de visitas</strong>",
+        "Desenvolvimento de aplicativo para <strong class='text-white'>Cavalgadas beneficentes com geolocalização</strong>",
+        "Desenvolvimento de aplicativo para <strong class='text-white'>Controle de Pets e Veterinários</strong>",
+        "Desenvolvimento de <strong class='text-white'>API para emissão de notas fiscais e de serviço</strong>"
+      ]
+    },
+    "inlite": {
+      "position": "Tech Lead",
+      "time": "Abr/2023 - Atual (Inlite)",
+      "text": [
+        "Exercido função de <strong class='text-white'>Tech Lead</strong> e <strong class='text-white'>Desenvolvedor</strong>",
+        "Desenvolvimento de software para iteração com os equipamentos da empresa via comunicação serial, junto de outras funcionalidades como armazenagem e gerenciamento dos arquivos exportados do dispositivos",
+        "Desenvolvimento de <strong class='text-white'>Aplicativo IOS e Android</strong> para iteração com os equipamentos da empresa via comunicação <strong class='text-white'>Bluetooth</strong>"
+      ]
+    },
+    "rocketSeat": {
+      "position": "Curso Full Stack em Typescript",
+      "time": "Jan/2019 - Dez/2019",
+      "text": [
+        "React (Typescript)",
+        "React Native (Typescript)",
+        "NodeJS (Typescript)"
+      ]
+    },
+    "rech": {
+      "position": "Desenvolvedor",
+      "time": "Out/2018 - Set/2020 (Rech Informática)",
+      "text": [
+        "Exercido função de <strong class='text-white'>Desenvolvedor</strong>",
+        "Participação no time responsável pela modulo de <strong class='text-white'>Informações fiscais</strong> das empresa",
+        "Desenvolvimento de melhorias e correções de problema no <strong class='text-white'>Software de gestão</strong> da empresa",
+        "Contato direto com problemas reportados pelos usuários do sistema",
+        "<strong class='text-white'>Supervisão de estagiário</strong> integrado ao time de trabalho"
+      ]
+    },
+    "rechTrainee": {
+      "position": "Estagiário",
+      "time": "Jan/2018 - Out/2018 (Rech Informática como Estagiário)",
+      "text": [
+        "Treinamento na linguagem de programação utilizada na empresa (COBOL)",
+        "Desenvolvimento de melhorias e correções de problema no <strong class='text-white'>Software de gestão</strong> da empresa"
+      ]
+    },
+    "liberato": {
+      "position": "Estudante",
+      "time": "Jan/2014 - Dez/2017",
+      "text": ["Curso técnico em Eletrônica"]
+    }
+  },
+  "contact": {
+    "emailPlaceholder": "Digite seu email para contato...",
+    "subjectPlaceholder": "Digite o assunto...",
+    "send": "Enviar",
+    "social": "Redes Sociais",
+    "contact": "Entre em contato comigo",
+    "emailValidation": "Informe um email válido por favor!",
+    "subjectValidation": "Informe o assunto por favor!",
+    "emailSuccess": "Obrigado pelo contato, assim que possível receberá o retorno!"
+  }
+}

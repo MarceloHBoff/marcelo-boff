@@ -1,0 +1,23 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": ["import-helpers"],
+  "rules": {
+    "import/no-anonymous-default-export": "off",
+    "import-helpers/order-imports": [
+      "warn",
+      {
+        "newlinesBetween": "always",
+        "groups": [
+          "/^react/",
+          "/^next/",
+          "/^redux/",
+          "module",
+          "/^\\.\\./",
+          "/^\\./",
+          ["parent", "sibling", "index"]
+        ],
+        "alphabetize": { "order": "asc", "ignoreCase": true }
+      }
+    ]
+  }
+}

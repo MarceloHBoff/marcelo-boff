@@ -1,0 +1,104 @@
+{
+  "header": {
+    "about": "About",
+    "skills": "Skills",
+    "experiences": "Experiences",
+    "contact": "Contact"
+  },
+  "about": [
+    "Hello, I'm <strong class='text-white'>Marcelo Henrique Boff.</strong>",
+    "I started my career as a <strong class='text-white'>Developer</strong> in 2018, as an intern after graduating as an Electronics Technician.",
+    "Today I work as <strong class='text-white'>Tech Lead at VetTech Soluções em Tecnologia</strong>, being responsible for project management and development",
+    "In addition to programming, I have practical experience with tax information and <strong class='text-white'>Business Management</strong>, and from studying I have knowledge in the area <strong class='text-white'>Finance and investments. </strong>",
+    "In my leisure time I like to practice <strong class='text-white'>Physical Activity</strong> such as going to the gym, watching series and films, and keeping up to date with the latest events in <strong class='text-white'>World of programming</strong>, in addition to studying the financial area and investments."
+  ],
+  "skills": {
+    "database": "Database",
+    "other": "Other"
+  },
+  "experiences": {
+    "wss": {
+      "position": "Offensive Security and Cybersecurity Operations Pathway V",
+      "time": "Feb/2023 - Dec/2023",
+      "text": [
+        "Introduction to Offensive Security and Cybersecurity Operations",
+        "Security in Operating Systems",
+        "Network Structures and Protocols for Cybersecurity",
+        "Network Attacks and Threats",
+        "Cryptography and Defense and Protection Techniques",
+        "Offensive Security I: Introduction and Key Aspects",
+        "Offensive Security II: Recognitions",
+        "Security Monitoring",
+        "Offensive Security III: Exploits and External Strategy",
+        "Incident Analysis, Treatment and Response",
+        "Offensive Security IV: Web and Post-Exploitation Strategy",
+        "Offensive Security V: Internal Strategy",
+        "Supervision in Offensive Security and Cybersecurity Practices"
+      ]
+    },
+    "vettech": {
+      "position": "Tech Lead",
+      "time": "Sep/2020 - Current (VetTech)",
+      "text": [
+        "Worked as <strong class='text-white'>Tech Lead</strong> and <strong class='text-white'>Developer</strong>",
+        "Development of improvements and problem corrections in <strong class='text-white'>Management Software</strong> for the company's pharmacies",
+        "System development for <strong class='text-white'>Visit Management</strong>",
+        "Development of an application for <strong class='text-white'>Charity rides with geolocation</strong>",
+        "Application development for <strong class='text-white'>Pet and Veterinary Control</strong>",
+        "Development of <strong class='text-white'>API for issuing invoices and service invoices</strong>"
+      ]
+    },
+    "inlite": {
+      "position": "Tech Lead",
+      "time": "Apr/2023 - Current (Inlite)",
+      "text": [
+        "Worked as <strong class='text-white'>Tech Lead</strong> and <strong class='text-white'>Developer</strong>",
+        "Development of software for iteration with the company's equipment via serial communication, along with other features such as storage and management of files exported from the device",
+        "Development of <strong class='text-white'>IOS and Android Application</strong> for iteration with the company's equipment via <strong class='text-white'>Bluetooth</strong> communication"
+      ]
+    },
+    "rocketSeat": {
+      "position": "Full Stack Course in Typescript",
+      "time": "Jan/2019 - Dec/2019",
+      "text": [
+        "React (Typescript)",
+        "React Native (Typescript)",
+        "NodeJS (Typescript)"
+      ]
+    },
+    "rech": {
+      "position": "Developer",
+      "time": "Oct/2018 - Sep/2020 (Rech Informática)",
+      "text": [
+        "Worked as <strong class='text-white'>Developer</strong>",
+        "Participation in the team responsible for the company's <strong class='text-white'>Tax Information</strong> module",
+        "Development of improvements and problem corrections in the company's <strong class='text-white'>Management Software</strong>",
+        "Direct contact with problems reported by system users",
+        "<strong class='text-white'>Intern supervision</strong> integrated into the work team"
+      ]
+    },
+    "rechTrainee": {
+      "position": "Intern",
+      "time": "Jan/2018 - Oct/2018 (Rech Informática as Intern)",
+      "text": [
+        "Training in the programming language used in the company (COBOL)",
+        "Development of improvements and problem corrections in the company's <strong class='text-white'>Management Software</strong>"
+      ]
+    },
+    "liberato": {
+      "position": "Student",
+      "time": "Jan/2014 - Dec/2017",
+      "text": ["Technical course in Electronics"]
+    }
+  },
+  "contact": {
+    "emailPlaceholder": "Enter your contact email...",
+    "subjectPlaceholder": "Enter the subject...",
+    "send": "Send",
+    "social": "Social Networks",
+    "contact": "Contact me",
+    "emailValidation": "Please enter a valid email address!",
+    "subjectValidation": "Enter the subject please!",
+    "emailSuccess": "Thank you for contacting us, you will receive a response as soon as possible!"
+  }
+}
